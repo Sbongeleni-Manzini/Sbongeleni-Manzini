@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Sbongeleni Manzini
 - 👀 I’m interested in reading novels
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on robot_world
+- 🌱 Languages i've learned so far is java and python
+- 🌱 I’m currently learning web_development
+- 💞️ I’m looking to collaborate on web dev exercises
 - 📫 How to reach me sbongelenisbekezele@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I'm Shy
