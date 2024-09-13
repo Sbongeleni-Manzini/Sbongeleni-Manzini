@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Smanzini023
+- 👋 Hi, I’m Sbongeleni Manzini
 - 👀 I’m interested in reading novels
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on robot_world
-- 📫 How to reach me smanzini023@student.wethinkcode.co.za
+- 📫 How to reach me sbongelenisbekezele@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: I'm Shy
 
